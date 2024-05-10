@@ -1,5 +1,5 @@
 # Unity Multiplayer Test
-This project is a 2D app using Photon Engine to create a multiplayer app. This demo was done to understand how to use Photon components to provide collaborative capabilities to a Unity app.
+This project is a 2D App that uses [Photon Unity Networking (PUN)](https://doc.photonengine.com/pun/current/getting-started/pun-intro) to create a multi-user experience. The purpose of this demo was to understand how to use PUN components to connect multiple users in a shared experience and share the object movements with other users.
 - **Unity Editor**: 2021.3.25f1, with Windows Development
 - **PUN 2**: PUN v2.45 
   
